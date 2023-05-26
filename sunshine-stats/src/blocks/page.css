@@ -1,0 +1,108 @@
+.page {
+  width: 100%;
+  height: 100%;
+  top: 100%;
+  margin: 1rem auto;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.4);
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  margin: 0;
+  font-size: 18px;
+  color: #fff;
+}
+
+.page::before {
+  content: "";
+  position: absolute;
+  background: url("../images/default.jpg") no-repeat center center/cover;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.page.sunshine::before {
+  background-image: url("../images/sunny-1.jpg");
+  background-size: cover;
+}
+
+.page.rain::before {
+  background-image: url("../images/rain.jpg");
+  background-size: cover;
+}
+
+.page.clear::before {
+  background-image: url("../images/clear.jpg");
+  background-size: cover;
+}
+
+.page.mist::before {
+  background-image: url("../images/mist.jpg");
+  background-size: cover;
+}
+
+.page.haze::before {
+  background-image: url("../images/haze.jpg");
+  background-size: cover;
+}
+.page.fog::before {
+  background-image: url("../images/fog.jpg");
+  background-size: cover;
+}
+
+.page.clouds::before {
+  background-image: url("../images/clouds.jpg");
+  background-size: 100% 100%;
+}
+
+.page.snow::before {
+  background-image: url("../images/snow.jpg");
+  background-size: cover;
+}
+
+.page.drizzle::before {
+  background-image: url("../images/snow.jpg");
+  background-size: cover;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+/* Media queries for tablet screens */
+@media (max-width: 768px) {
+  .page {
+    font-size: 16px;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+}
+
+/* Media queries for mobile screens */
+@media (max-width: 480px) {
+  .page {
+    font-size: 14px;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+  }
+}

@@ -1,0 +1,10 @@
+.top {
+  width: 90%;
+  margin: 1rem auto;
+}
+
+@media screen and (max-width: 767px) {
+  .top {
+    width: 100%;
+  }
+}
