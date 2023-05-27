@@ -38,7 +38,12 @@ To run the Sunshine-Stats Weather website locally, follow these steps:
 3. Install dependencies: npm install
 4. Start the development server: npm start
 5. Open your browser and visit: http://localhost:3000
-   **Note:** You will need to obtain an API key from OpenWeatherMap and update it in the code to fetch weather data successfully.
+
+- **Note:** You will need to obtain an API key from OpenWeatherMap and update it in the code to fetch weather data successfully.
+
+---
+
+6. To visit the site App running: https://cyberbios.github.io/SunshineStats-Frontend/
 
 # **Credits**
 
