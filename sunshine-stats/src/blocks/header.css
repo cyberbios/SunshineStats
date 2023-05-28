@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 10vh;
+}
+.header h1 {
+  font-size: 40px;
+  color: #fffbf4;
+  margin: 0;
+  padding: 0;
+}
+
+/* Media queries for tablet screens */
+@media (max-width: 768px) {
+  .header h1 {
+    font-size: 24px;
+  }
+}
+
+/* Media queries for mobile screens */
+@media (max-width: 480px) {
+  .header h1 {
+    font-size: 20px;
+  }
+}

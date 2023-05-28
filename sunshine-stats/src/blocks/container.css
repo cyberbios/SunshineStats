@@ -1,0 +1,34 @@
+.container {
+  max-width: 1780px;
+  height: 81vh;
+  margin: auto;
+  padding: 0 1rem;
+  position: relative;
+  top: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1480px) {
+  .container {
+    max-width: 80%;
+  }
+}
+
+@media screen and (max-width: 1279px) {
+  .container {
+    max-width: 584px;
+    top: 5%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .container {
+    max-width: 282px;
+    top: 2rem;
+    padding: 0;
+  }
+}
