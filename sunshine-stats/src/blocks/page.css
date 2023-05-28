@@ -15,53 +15,53 @@
   position: absolute;
   top: 0;
   left: 0;
-  background: url("../images/default.jpg") no-repeat center center/cover;
+  background: url("../images/default.png") no-repeat center center/cover;
   width: 100%;
   height: 100%;
   z-index: -1;
 }
 
 .page.sunshine::before {
-  background-image: url("../images/sunny-1.jpg");
+  background-image: url("../images/sunny-1.png");
   background-size: cover;
 }
 
 .page.rain::before {
-  background-image: url("../images/rain.jpg");
+  background-image: url("../images/rain.png");
   background-size: cover;
 }
 
 .page.clear::before {
-  background-image: url("../images/clear.jpg");
+  background-image: url("../images/clear.png");
   background-size: cover;
 }
 
 .page.mist::before {
-  background-image: url("../images/mist.jpg");
+  background-image: url("../images/mist.png");
   background-size: cover;
 }
 
 .page.haze::before {
-  background-image: url("../images/haze.jpg");
+  background-image: url("../images/haze.png");
   background-size: cover;
 }
 .page.fog::before {
-  background-image: url("../images/fog.jpg");
+  background-image: url("../images/fog.png");
   background-size: cover;
 }
 
 .page.clouds::before {
-  background-image: url("../images/clouds.jpg");
+  background-image: url("../images/clouds.png");
   background-size: 100% 100%;
 }
 
 .page.snow::before {
-  background-image: url("../images/snow.jpg");
+  background-image: url("../images/snow.png");
   background-size: cover;
 }
 
 .page.drizzle::before {
-  background-image: url("../images/snow.jpg");
+  background-image: url("../images/snow.png");
   background-size: cover;
 }
 
