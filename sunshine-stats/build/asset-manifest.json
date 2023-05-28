@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/SunshineStats-Frontend/static/css/main.460578f4.css",
-    "main.js": "/SunshineStats-Frontend/static/js/main.cf37f970.js",
-    "static/media/haze.jpg": "/SunshineStats-Frontend/static/media/haze.82dc5e9a0f6e575db5ef.jpg",
-    "static/media/clear.jpg": "/SunshineStats-Frontend/static/media/clear.db9e2bb4bd3bfcd683f0.jpg",
-    "static/media/sunny-1.jpg": "/SunshineStats-Frontend/static/media/sunny-1.421d179f247c54d42b14.jpg",
-    "static/media/snow.jpg": "/SunshineStats-Frontend/static/media/snow.8e1164771e27c1256203.jpg",
-    "static/media/rain.jpg": "/SunshineStats-Frontend/static/media/rain.91dcc063fc81a57ee127.jpg",
-    "static/media/clouds.jpg": "/SunshineStats-Frontend/static/media/clouds.382a4c7ac3a82c0b98c3.jpg",
+    "main.css": "/SunshineStats-Frontend/static/css/main.c20d344b.css",
+    "main.js": "/SunshineStats-Frontend/static/js/main.5c19fca1.js",
+    "static/media/haze.png": "/SunshineStats-Frontend/static/media/haze.06202a521754eacaea2a.png",
+    "static/media/clear.png": "/SunshineStats-Frontend/static/media/clear.72e1f990a788a81d8718.png",
+    "static/media/sunny-1.png": "/SunshineStats-Frontend/static/media/sunny-1.3702fad3212bc1e7c4be.png",
+    "static/media/rain.png": "/SunshineStats-Frontend/static/media/rain.f14880ffd5a88e0b7dee.png",
+    "static/media/clouds.png": "/SunshineStats-Frontend/static/media/clouds.2a40ffcf6d4dede022ec.png",
+    "static/media/default.png": "/SunshineStats-Frontend/static/media/default.8bebf9723897c34c3a3f.png",
+    "static/media/snow.png": "/SunshineStats-Frontend/static/media/snow.5f2aa6c6f94a262b7a7d.png",
+    "static/media/mist.png": "/SunshineStats-Frontend/static/media/mist.1afa12c991fe9d92b23e.png",
+    "static/media/fog.png": "/SunshineStats-Frontend/static/media/fog.39b24690a52838696ba2.png",
     "static/media/Inter-Medium.woff2": "/SunshineStats-Frontend/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
     "static/media/Inter-Black.woff2": "/SunshineStats-Frontend/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
     "static/media/Inter-Regular.woff2": "/SunshineStats-Frontend/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
-    "static/media/mist.jpg": "/SunshineStats-Frontend/static/media/mist.e39be5608a91519c5d5d.jpg",
-    "static/media/default.jpg": "/SunshineStats-Frontend/static/media/default.26645deabd98ac313d04.jpg",
-    "static/media/fog.jpg": "/SunshineStats-Frontend/static/media/fog.ee33772b9346316c4bcf.jpg",
     "index.html": "/SunshineStats-Frontend/index.html",
-    "main.460578f4.css.map": "/SunshineStats-Frontend/static/css/main.460578f4.css.map",
-    "main.cf37f970.js.map": "/SunshineStats-Frontend/static/js/main.cf37f970.js.map"
+    "main.c20d344b.css.map": "/SunshineStats-Frontend/static/css/main.c20d344b.css.map",
+    "main.5c19fca1.js.map": "/SunshineStats-Frontend/static/js/main.5c19fca1.js.map"
   },
   "entrypoints": [
-    "static/css/main.460578f4.css",
-    "static/js/main.cf37f970.js"
+    "static/css/main.c20d344b.css",
+    "static/js/main.5c19fca1.js"
   ]
 }
