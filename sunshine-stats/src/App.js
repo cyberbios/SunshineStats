@@ -65,7 +65,7 @@ function App() {
       </div>
       <div className="search">
         <input
-          className="search_input"
+          className="search-input"
           value={location}
           onChange={(event) => setLocation(event.target.value)}
           onKeyDown={searchLocation}

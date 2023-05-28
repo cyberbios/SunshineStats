@@ -3,7 +3,7 @@
   padding: 1rem;
 }
 
-.search_input {
+.search-input {
   padding: 0.7rem 1.5rem;
   font-size: 1.2rem;
   border-radius: 25px;
@@ -14,4 +14,25 @@
 
 ::placeholder {
   color: #f8f8f8;
+}
+
+@media (max-width: 768px) {
+  .search {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .search {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 320px) {
+  .search {
+    display: flex;
+    justify-content: center;
+  }
 }

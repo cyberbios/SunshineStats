@@ -4,7 +4,28 @@
   text-align: center;
   width: 90%;
   margin: 1rem auto;
-  padding: 2rem;
+  padding: 1rem;
   border-radius: 12px;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+@media (max-width: 768px) {
+  .bottom {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .bottom {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 320px) {
+  .bottom {
+    display: flex;
+    justify-content: center;
+  }
 }
