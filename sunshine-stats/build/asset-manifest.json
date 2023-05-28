@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SunshineStats-Frontend/static/css/main.c20d344b.css",
+    "main.css": "/SunshineStats-Frontend/static/css/main.603ecaae.css",
     "main.js": "/SunshineStats-Frontend/static/js/main.5c19fca1.js",
     "static/media/haze.png": "/SunshineStats-Frontend/static/media/haze.06202a521754eacaea2a.png",
     "static/media/clear.png": "/SunshineStats-Frontend/static/media/clear.72e1f990a788a81d8718.png",
@@ -15,11 +15,11 @@
     "static/media/Inter-Black.woff2": "/SunshineStats-Frontend/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
     "static/media/Inter-Regular.woff2": "/SunshineStats-Frontend/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "index.html": "/SunshineStats-Frontend/index.html",
-    "main.c20d344b.css.map": "/SunshineStats-Frontend/static/css/main.c20d344b.css.map",
+    "main.603ecaae.css.map": "/SunshineStats-Frontend/static/css/main.603ecaae.css.map",
     "main.5c19fca1.js.map": "/SunshineStats-Frontend/static/js/main.5c19fca1.js.map"
   },
   "entrypoints": [
-    "static/css/main.c20d344b.css",
+    "static/css/main.603ecaae.css",
     "static/js/main.5c19fca1.js"
   ]
 }
